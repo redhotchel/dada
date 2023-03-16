@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dada/static/css/main.c4ab82e4.css",
+    "main.js": "/dada/static/js/main.eaa3599f.js",
+    "index.html": "/dada/index.html",
+    "main.c4ab82e4.css.map": "/dada/static/css/main.c4ab82e4.css.map",
+    "main.eaa3599f.js.map": "/dada/static/js/main.eaa3599f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4ab82e4.css",
+    "static/js/main.eaa3599f.js"
+  ]
+}
